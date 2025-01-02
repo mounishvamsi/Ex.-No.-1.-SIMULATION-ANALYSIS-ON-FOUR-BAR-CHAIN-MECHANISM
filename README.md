@@ -53,9 +53,9 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/7d1186b4-3e0b-4ded-ac04-6ebd7b9dbb48)
-![image](https://github.com/user-attachments/assets/4bd7a23c-a6b1-45dd-a3cc-e74492038a35)
-![image](https://github.com/user-attachments/assets/f79fb4d8-5f6b-4357-911c-7744980a5595)
+
+![Screenshot 2025-01-02 092942](https://github.com/user-attachments/assets/389e3999-2469-4682-aebc-956ebef53b4b)
+
 
 
 
